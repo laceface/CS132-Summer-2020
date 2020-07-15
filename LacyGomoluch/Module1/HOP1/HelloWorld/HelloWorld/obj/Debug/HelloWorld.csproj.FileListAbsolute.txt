@@ -1,0 +1,6 @@
+/Users/lacy/Documents/cs/CS132-Summer-2020/LacyGomoluch/Module1/HOP1/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/lacy/Documents/cs/CS132-Summer-2020/LacyGomoluch/Module1/HOP1/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/lacy/Documents/cs/CS132-Summer-2020/LacyGomoluch/Module1/HOP1/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojAssemblyReference.cache
+/Users/lacy/Documents/cs/CS132-Summer-2020/LacyGomoluch/Module1/HOP1/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/lacy/Documents/cs/CS132-Summer-2020/LacyGomoluch/Module1/HOP1/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/lacy/Documents/cs/CS132-Summer-2020/LacyGomoluch/Module1/HOP1/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
